@@ -1,4 +1,4 @@
-## Annotation rules
+## Annotation rules in CVAT
 
 [Labels field]
 
