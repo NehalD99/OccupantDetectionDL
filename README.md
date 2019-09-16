@@ -4,7 +4,7 @@
 ## List of tasks:
 
 Dataset creation: Cvat will be used to perform data annotation. Steps are described in Dataset_Annotation.md.
-Since Cvat only dumps annotations frames will be extracted using ffmpeg,the same tool used by cvat to extract frames.
+Since Cvat only dumps annotations and not frames, frames will be extracted using ffmpeg,the same tool used by cvat to extract frames.
 The following command is used to extract frames. 
 
 Here iq, is the frame resolution quality which is a field in the cvat tool for image quality.
