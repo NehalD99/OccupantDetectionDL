@@ -1,9 +1,9 @@
 # OccupantDetectionDL
 
 
-list of tasks:
+## List of tasks:
 
-Dataset creation: Cvat will be used to perform data annotation. Steps are described in Dataset_Annotation.md
+Dataset creation: Cvat will be used to perform data annotation. Steps are described in Dataset_Annotation.md.
 Since Cvat only dumps annotations frames will be extracted using ffmpeg,the same tool used by cvat to extract frames.
 The following command is used to extract frames. 
 
